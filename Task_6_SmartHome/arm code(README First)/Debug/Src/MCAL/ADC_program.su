@@ -1,4 +1,0 @@
-../Src/MCAL/ADC_program.c:10:6:ADC1_voidInit	4	static
-../Src/MCAL/ADC_program.c:65:4:ADC1_u8GetResultSync	24	static
-../Src/MCAL/ADC_program.c:111:6:ADC1_voidChangeCh	16	static
-../Src/MCAL/ADC_program.c:118:5:ADC1_u8GetResultASync	24	static
